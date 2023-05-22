@@ -1,0 +1,126 @@
+Book List By Year Published: 
+
+BOOK PUBLISHED ON 2015
+============================
+
+Title: Lawak Kampus
+Genre: Comedy
+Language: Melayu
+Pages: 150
+Year Published: 2015
+Price: RM15.60
+
+Title: How to invest
+Genre: Education
+Language: English
+Pages: 359
+Year Published: 2015
+Price: RM49.99
+
+Title: China Big Wall
+Genre: Education
+Language: Mandarin
+Pages: 176
+Year Published: 2015
+Price: RM17.90
+
+
+BOOK PUBLISHED ON 2016
+============================
+
+Title: Makanan Berkhasiat
+Genre: Fact
+Language: Melayu
+Pages: 280
+Year Published: 2016
+Price: RM29.80
+
+Title: Ghost
+Genre: Comedy
+Language: English
+Pages: 201
+Year Published: 2016
+Price: RM29.50
+
+Title: April Fool
+Genre: Fact
+Language: Mandarin
+Pages: 209
+Year Published: 2016
+Price: RM23.00
+
+
+BOOK PUBLISHED ON 2017
+============================
+
+Title: Sejarah
+Genre: Education
+Language: Melayu
+Pages: 269
+Year Published: 2017
+Price: RM42.50
+
+Title: Witch's Love
+Genre: Romance
+Language: English
+Pages: 416
+Year Published: 2017
+Price: RM39.50
+
+Title: Wo Ai Ni
+Genre: Romance
+Language: Mandarin
+Pages: 319
+Year Published: 2017
+Price: RM35.40
+
+
+BOOK PUBLISHED ON 2018
+============================
+
+Title: Sehingga Bertemu Lagi
+Genre: Romance
+Language: Melayu
+Pages: 350
+Year Published: 2018
+Price: RM45.90
+
+Title: Politics in Malaysia
+Genre: Fact
+Language: English
+Pages: 150
+Year Published: 2018
+Price: RM16.50
+
+Title: Pusetau
+Genre: Comedy
+Language: Mandarin
+Pages: 450
+Year Published: 2018
+Price: RM48.99
+
+
+BOOK PUBLISHED ON 2019
+============================
+
+Title: Asrama
+Genre: Fiction
+Language: Melayu
+Pages: 320
+Year Published: 2019
+Price: RM39.99
+
+Title: Five Feet Apart
+Genre: Fiction
+Language: English
+Pages: 250
+Year Published: 2019
+Price: RM32.50
+
+Title: Big Brother
+Genre: Fiction
+Language: Mandarin
+Pages: 300
+Year Published: 2019
+Price: RM35.00
+

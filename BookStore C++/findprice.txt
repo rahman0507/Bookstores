@@ -1,0 +1,147 @@
++++++++++++++++++++++++++++++++++
+Book under RM15.00 : 
++++++++++++++++++++++++++++++++++
+
+
+
++++++++++++++++++++++++++++++++++
+Book from RM15.00 until RM20.00 : 
++++++++++++++++++++++++++++++++++
+
+Title: Lawak Kampus
+Genre: Comedy
+Language: Melayu
+Pages: 150
+Year Published: 2015
+Price: RM15.60
+
+Title: Politics in Malaysia
+Genre: Fact
+Language: English
+Pages: 150
+Year Published: 2018
+Price: RM16.50
+
+Title: China Big Wall
+Genre: Education
+Language: Mandarin
+Pages: 176
+Year Published: 2015
+Price: RM17.90
+
+
+
++++++++++++++++++++++++++++++++++
+Book from RM20.00 until RM30.00 : 
++++++++++++++++++++++++++++++++++
+
+Title: Asrama
+Genre: Fiction
+Language: Melayu
+Pages: 320
+Year Published: 2019
+Price: RM39.99
+
+Title: Witch's Love
+Genre: Romance
+Language: English
+Pages: 416
+Year Published: 2017
+Price: RM39.50
+
+Title: Five Feet Apart
+Genre: Fiction
+Language: English
+Pages: 250
+Year Published: 2019
+Price: RM32.50
+
+Title: Wo Ai Ni
+Genre: Romance
+Language: Mandarin
+Pages: 319
+Year Published: 2017
+Price: RM35.40
+
+Title: Big Brother
+Genre: Fiction
+Language: Mandarin
+Pages: 300
+Year Published: 2019
+Price: RM35.00
+
+
+
++++++++++++++++++++++++++++++++++
+Book from RM30.00 until RM40.00 : 
++++++++++++++++++++++++++++++++++
+
+Title: Asrama
+Genre: Fiction
+Language: Melayu
+Pages: 320
+Year Published: 2019
+Price: RM39.99
+
+Title: Witch's Love
+Genre: Romance
+Language: English
+Pages: 416
+Year Published: 2017
+Price: RM39.50
+
+Title: Five Feet Apart
+Genre: Fiction
+Language: English
+Pages: 250
+Year Published: 2019
+Price: RM32.50
+
+Title: Wo Ai Ni
+Genre: Romance
+Language: Mandarin
+Pages: 319
+Year Published: 2017
+Price: RM35.40
+
+Title: Big Brother
+Genre: Fiction
+Language: Mandarin
+Pages: 300
+Year Published: 2019
+Price: RM35.00
+
+
+
++++++++++++++++++++++++++++++++++
+Book from RM40.00 until RM50.00 : 
++++++++++++++++++++++++++++++++++
+
+Title: Sejarah
+Genre: Education
+Language: Melayu
+Pages: 269
+Year Published: 2017
+Price: RM42.50
+
+Title: Sehingga Bertemu Lagi
+Genre: Romance
+Language: Melayu
+Pages: 350
+Year Published: 2018
+Price: RM45.90
+
+Title: How to invest
+Genre: Education
+Language: English
+Pages: 359
+Year Published: 2015
+Price: RM49.99
+
+Title: Pusetau
+Genre: Comedy
+Language: Mandarin
+Pages: 450
+Year Published: 2018
+Price: RM48.99
+

@@ -1,0 +1,15 @@
+Science Computer;Facts;English;111 2019 22.50
+Makanan Berkhasiat;Fact;Melayu;280 2016 29.80
+Sejarah;Education;Melayu;269 2017 42.50
+Sehingga Bertemu Lagi;Romance;Melayu;350 2018 45.90
+Asrama;Fiction;Melayu;320 2019 39.99
+How to invest;Education;English;359 2015 49.99
+Ghost;Comedy;English;201 2016 29.50
+Witch's Love;Romance;English;416 2017 39.50
+Politics in Malaysia;Fact;English;150 2018 16.50
+Five Feet Apart;Fiction;English;250 2019 32.50
+China Big Wall;Education;Mandarin;176 2015 17.90
+April Fool;Fact;Mandarin;209 2016 23.00
+Wo Ai Ni;Romance;Mandarin;319 2017 35.40
+Pusetau;Comedy;Mandarin;450 2018 48.99
+Big Brother;Fiction;Mandarin;300 2019 35.00

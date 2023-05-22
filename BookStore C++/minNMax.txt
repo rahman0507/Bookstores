@@ -1,0 +1,26 @@
+============================
+
+Maximum price (Highest Price) : RM 49.99
+
+Book Detail :
+
+Title: How to invest
+Genre: Education
+Pages: 359
+Year Published: 2015
+Price: RM49.99
+Language: English
+
+============================
+
+Minimum price (Lowest Price) : RM 15.60
+
+Book Detail :
+
+Title: Lawak Kampus
+Genre: Comedy
+Pages: 150
+Year Published: 2015
+Price: RM15.60
+Language: Melayu
+

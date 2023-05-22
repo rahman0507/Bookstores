@@ -1,0 +1,14 @@
+Total books for Melayu : 5
+
+Total books for English : 5
+
+Total books for Mandarin : 5
+
+
+
+Average price for books Melayu : 34.76
+
+Average price for books English : 33.60
+
+Average price for books Mandarin : 32.06
+
